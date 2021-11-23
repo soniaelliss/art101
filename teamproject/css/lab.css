@@ -1,0 +1,17 @@
+/* <div style="background-image: url('darkocean.gif');"> */
+
+
+
+#bg-pic {
+    width: 2000px;
+    height: 1600px;
+}
+
+<style>
+div {
+  background-image: url('darkocean.gif');
+}
+</style>
+
+html  {
+  background-color: #Fd6A02
